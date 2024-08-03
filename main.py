@@ -175,8 +175,6 @@ class BruteKey:
 
 
 def main():
-    optometrist = "ABCADECFGHC"
-    please = "ABCDEC"
     key = BruteKey()
     while(True):
         key.read_command()
